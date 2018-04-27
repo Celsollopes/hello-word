@@ -1,2 +1,4 @@
 # hello-word
-This a small train
+This a small trainy
+
+Necessity inspires creation that requires knowledge that requires study!
